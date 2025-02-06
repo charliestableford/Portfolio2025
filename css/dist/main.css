@@ -37,7 +37,6 @@ section {
 
 .flexContainer {
   display: flex;
-  margin-top: 15%;
   align-items: center;
 }
 
